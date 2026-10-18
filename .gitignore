@@ -1,0 +1,38 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment & Python
+.env
+.env*.local
+__pycache__/
+*.py[cod]
+*$py.class
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Antigravity & Agent workspace artifacts
+.agents
+.gemini

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="pitstopGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E825E" />
+      <stop offset="100%" stop-color="#13583E" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="24" fill="url(#pitstopGrad)" />
+  <!-- Map Pin Base -->
+  <path d="M50 18 C36.7 18 26 28.7 26 42 C26 58 46 78 48.5 80.4 C49.3 81.2 50.7 81.2 51.5 80.4 C54 78 74 58 74 42 C74 28.7 63.3 18 50 18 Z" fill="#FFFFFF" />
+  <!-- Inner Circle with Pitstop Pulse -->
+  <circle cx="50" cy="42" r="15" fill="#176B4D" />
+  <!-- Water droplet / Energy Bolt emblem -->
+  <path d="M50 33 C47 37 44 41 44 44 C44 47.3 46.7 50 50 50 C53.3 50 56 47.3 56 44 C56 41 53 37 50 33 Z" fill="#E4F3E9" />
+</svg>
