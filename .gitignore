@@ -36,3 +36,4 @@ __pycache__/
 # Antigravity & Agent workspace artifacts
 .agents
 .gemini
+.firebase/
